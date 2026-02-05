@@ -50,15 +50,15 @@
             <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
                 <TextBlock HorizontalAlignment="Center" FontSize="35" Margin="5" 
            Text="Authentication Successful!"/>
-                <TextBlock HorizontalAlignment="Center" FontSize="20" Margin="5" 
+                <TextBlock Name="tb_Pass1" HorizontalAlignment="Center" FontSize="20" Margin="5" 
            Text="Pasword1"/>
-                <TextBlock HorizontalAlignment="Center" FontSize="20" Margin="5" 
+                <TextBlock Name="tb_Pass2" HorizontalAlignment="Center" FontSize="20" Margin="5" 
            Text="Pasword2"/>
-                <TextBlock HorizontalAlignment="Center" FontSize="20" Margin="5" 
+                <TextBlock Name="tb_Pass3" HorizontalAlignment="Center" FontSize="20" Margin="5" 
            Text="Pasword3"/>
-                <TextBlock HorizontalAlignment="Center" FontSize="20" Margin="5" 
+                <TextBlock Name="tb_Pass4" HorizontalAlignment="Center" FontSize="20" Margin="5" 
            Text="Pasword4"/>
-                <TextBlock HorizontalAlignment="Center" FontSize="20" Margin="5" 
+                <TextBlock Name="tb_Pass5" HorizontalAlignment="Center" FontSize="20" Margin="5" 
            Text="Pasword5"/>
             </StackPanel>
         </Grid>
